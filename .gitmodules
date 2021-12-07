@@ -1,0 +1,6 @@
+[submodule "src/media"]
+	path = src/media
+	url = https://github.com/ryuuganime/mediaKit
+[submodule "src/css"]
+	path = src/css
+	url = https://github.com/nattadasu/w3css

@@ -1,0 +1,15 @@
+{
+  "name": "ryuuganime.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuuganime/ryuuganime.github.io.git"
+  },
+  "author": "Ryuuganime",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryuuganime/ryuuganime.github.io/issues"
+  },
+  "homepage": "https://github.com/ryuuganime/ryuuganime.github.io#readme"
+}
