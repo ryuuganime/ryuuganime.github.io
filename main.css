@@ -45,6 +45,7 @@ p,h1 {
 
 .logo {
     margin: 10px 0;
+    left: 50%;
 }
 
 .fieryRed, .fieryRed-hover:hover {
